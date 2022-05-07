@@ -15,6 +15,7 @@
     "react-scripts": "3.4.3",
     "react-youtube": "^7.11.3"
   },
+  "devDependencies": {"react-horizontal-scrolling": "^0.1.8"},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
